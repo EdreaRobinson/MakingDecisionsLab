@@ -95,6 +95,10 @@ if (temperature >= 80 && rain === true) {
 
 //CODE HERE
 
+for (i = 0; i < 10; i++) {
+  console.log("hello")
+}
+
 
 ////////// PROBLEM 6 //////////
 
